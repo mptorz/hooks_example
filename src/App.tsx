@@ -21,36 +21,7 @@ const ExampleState = () => {
   );
 }
 
-
-// export default ExampleState;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+export default ExampleState;
 
 
 
@@ -97,58 +68,6 @@ const ExampleEffect = () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const SomeContext = createContext("default value")
 
 const ExampleGrandGrandParent = () => (
@@ -178,4 +97,4 @@ const ExampleChild = () => {
   )
 }
 
-export default ExampleGrandGrandParent
+// export default ExampleGrandGrandParent
